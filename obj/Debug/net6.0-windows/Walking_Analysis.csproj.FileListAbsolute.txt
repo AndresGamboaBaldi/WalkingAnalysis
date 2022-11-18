@@ -24,3 +24,29 @@ C:\Users\andre\OneDrive\Desktop\PASARELA\Walking_Analysis\obj\Debug\net6.0-windo
 C:\Users\andre\OneDrive\Desktop\PASARELA\Walking_Analysis\obj\Debug\net6.0-windows\ref\Walking_Analysis.dll
 C:\Users\andre\OneDrive\Desktop\PASARELA\Walking_Analysis\bin\Debug\net6.0-windows\SharpAvi.dll
 C:\Users\andre\OneDrive\Desktop\PASARELA\Walking_Analysis\obj\Debug\net6.0-windows\Walking_Analysis.Properties.Resources.resources
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\Walking_Analysis.exe
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\Walking_Analysis.deps.json
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\Walking_Analysis.runtimeconfig.json
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\Walking_Analysis.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\Walking_Analysis.pdb
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\AForge.Controls.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\AForge.Imaging.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\AForge.Math.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\bin\Debug\net6.0-windows\SharpAvi.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.csproj.AssemblyReference.cache
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.Form1.resources
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.Properties.Resources.resources
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.csproj.GenerateResource.cache
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.AssemblyInfoInputs.cache
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.AssemblyInfo.cs
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.csproj.CopyComplete
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\refint\Walking_Analysis.dll
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.pdb
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\Walking_Analysis.genruntimeconfig.cache
+C:\Users\Mlopez\Visual Studio\WalkingAnalysis\obj\Debug\net6.0-windows\ref\Walking_Analysis.dll

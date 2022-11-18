@@ -131,6 +131,13 @@ namespace Walking_Analysis
                     camera4Combo.SelectedIndex = 3;
                     camera5Combo.SelectedIndex = 4;
                 }
+                if (videoDevices.Count == 6)
+                {
+                    camera2Combo.SelectedIndex = 1;
+                    camera3Combo.SelectedIndex = 2;
+                    camera4Combo.SelectedIndex = 3;
+                    camera5Combo.SelectedIndex = 4;
+                }
 
                 camera1Combo.SelectedIndex = 0;
             }
