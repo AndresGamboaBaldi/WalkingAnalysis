@@ -47,7 +47,7 @@ namespace Walking_Analysis
 
 
                 // check cameras count
-                if (videoDevices.Count == 1)
+                if (videoDevices.Count == 2)
                 {
                     camera2Combo.Items.Clear();
 
@@ -73,7 +73,7 @@ namespace Walking_Analysis
                     camera5Combo.SelectedIndex = 0;
                     camera5Combo.Enabled = false;
                 }
-                if (videoDevices.Count == 2)
+                if (videoDevices.Count ==5)
                 {
                     camera3Combo.Items.Clear();
 
@@ -282,7 +282,8 @@ namespace Walking_Analysis
         private void buttonStartRecord_Click(object sender, EventArgs e)
         {
             string filename = string.Format("{0}-{1}.avi", textBoxNombre.Text.Replace(" ", ""), DateTime.Now.ToString("dd-MM-yyyy_HH-mm"));
-            rec = new Recorder(new RecorderParams( filename, 10, SharpAvi.CodecIds.MotionJpeg, 70));
+            RecorderParams recParams = new RecorderParams("G:\\temp\\" + filename, 10, SharpAvi.CodecIds.MotionJpeg, 70);
+            rec = new Recorder(recParams);
             labelGrabando.Visible = true;
         }
 
