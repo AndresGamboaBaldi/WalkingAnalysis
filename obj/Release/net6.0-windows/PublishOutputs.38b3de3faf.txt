@@ -1,0 +1,12 @@
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\Walking_Analysis.exe
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\Walking_Analysis.dll
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\Walking_Analysis.deps.json
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\Walking_Analysis.runtimeconfig.json
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\Walking_Analysis.pdb
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\AForge.dll
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\AForge.Controls.dll
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\AForge.Imaging.dll
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\AForge.Math.dll
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\AForge.Video.dll
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\AForge.Video.DirectShow.dll
+D:\Temp\WalkingAnalysis\bin\Release\net6.0-windows\app.publish\SharpAvi.dll

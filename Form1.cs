@@ -44,6 +44,7 @@ namespace Walking_Analysis
                     camera4Combo.Items.Add(cameraName);
                     camera5Combo.Items.Add(cameraName);
                 }
+                Console.WriteLine("camaras " + videoDevices.Count);
 
 
                 // check cameras count
@@ -126,20 +127,20 @@ namespace Walking_Analysis
                 }
                 if (videoDevices.Count == 5)
                 {
-                    camera2Combo.SelectedIndex = 1;
-                    camera3Combo.SelectedIndex = 2;
-                    camera4Combo.SelectedIndex = 3;
-                    camera5Combo.SelectedIndex = 4;
+                    camera2Combo.SelectedIndex = 2;
+                    camera3Combo.SelectedIndex = 3;
+                    camera4Combo.SelectedIndex = 4;
+                    camera5Combo.SelectedIndex = 5;
                 }
                 if (videoDevices.Count == 6)
                 {
-                    camera2Combo.SelectedIndex = 1;
-                    camera3Combo.SelectedIndex = 2;
-                    camera4Combo.SelectedIndex = 3;
-                    camera5Combo.SelectedIndex = 4;
+                    camera2Combo.SelectedIndex = 2;
+                    camera3Combo.SelectedIndex = 3;
+                    camera4Combo.SelectedIndex = 4;
+                    camera5Combo.SelectedIndex = 5;
                 }
 
-                camera1Combo.SelectedIndex = 0;
+                camera1Combo.SelectedIndex = 1;
             }
             catch
             {
@@ -282,7 +283,7 @@ namespace Walking_Analysis
         private void buttonStartRecord_Click(object sender, EventArgs e)
         {
             string filename = string.Format("{0}-{1}.avi", textBoxNombre.Text.Replace(" ", ""), DateTime.Now.ToString("dd-MM-yyyy_HH-mm"));
-            RecorderParams recParams = new RecorderParams("G:\\temp\\" + filename, 10, SharpAvi.CodecIds.MotionJpeg, 70);
+            RecorderParams recParams = new RecorderParams("D:\\temp\\" + filename, 10, SharpAvi.CodecIds.MotionJpeg, 70);
             rec = new Recorder(recParams);
             labelGrabando.Visible = true;
         }

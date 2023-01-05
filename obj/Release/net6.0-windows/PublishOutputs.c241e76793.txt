@@ -1,0 +1,12 @@
+D:\Temp\SetupApp\Walking_Analysis.exe
+D:\Temp\SetupApp\Walking_Analysis.dll
+D:\Temp\SetupApp\Walking_Analysis.deps.json
+D:\Temp\SetupApp\Walking_Analysis.runtimeconfig.json
+D:\Temp\SetupApp\Walking_Analysis.pdb
+D:\Temp\SetupApp\AForge.dll
+D:\Temp\SetupApp\AForge.Controls.dll
+D:\Temp\SetupApp\AForge.Imaging.dll
+D:\Temp\SetupApp\AForge.Math.dll
+D:\Temp\SetupApp\AForge.Video.dll
+D:\Temp\SetupApp\AForge.Video.DirectShow.dll
+D:\Temp\SetupApp\SharpAvi.dll

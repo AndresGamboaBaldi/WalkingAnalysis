@@ -1,0 +1,8 @@
+D:\Temp\WalkingAnalysis\obj\Release\netcoreapp3.1\Walking_Analysis.csproj.AssemblyReference.cache
+D:\Temp\WalkingAnalysis\obj\Release\netcoreapp3.1\Walking_Analysis.Form1.resources
+D:\Temp\WalkingAnalysis\obj\Release\netcoreapp3.1\Walking_Analysis.Properties.Resources.resources
+D:\Temp\WalkingAnalysis\obj\Release\netcoreapp3.1\Walking_Analysis.csproj.GenerateResource.cache
+D:\Temp\WalkingAnalysis\obj\Release\netcoreapp3.1\Walking_Analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\WalkingAnalysis\obj\Release\netcoreapp3.1\Walking_Analysis.AssemblyInfoInputs.cache
+D:\Temp\WalkingAnalysis\obj\Release\netcoreapp3.1\Walking_Analysis.AssemblyInfo.cs
+D:\Temp\WalkingAnalysis\obj\Release\netcoreapp3.1\Walking_Analysis.csproj.CoreCompileInputs.cache

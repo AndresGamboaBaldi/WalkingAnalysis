@@ -1,0 +1,8 @@
+D:\Temp\WalkingAnalysis\obj\Release\net6.0-windows\OrthoWalkAnalisis.csproj.AssemblyReference.cache
+D:\Temp\WalkingAnalysis\obj\Release\net6.0-windows\Walking_Analysis.Form1.resources
+D:\Temp\WalkingAnalysis\obj\Release\net6.0-windows\OrthoWalkAnalisis.Properties.Resources.resources
+D:\Temp\WalkingAnalysis\obj\Release\net6.0-windows\OrthoWalkAnalisis.csproj.GenerateResource.cache
+D:\Temp\WalkingAnalysis\obj\Release\net6.0-windows\OrthoWalkAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\WalkingAnalysis\obj\Release\net6.0-windows\OrthoWalkAnalisis.AssemblyInfoInputs.cache
+D:\Temp\WalkingAnalysis\obj\Release\net6.0-windows\OrthoWalkAnalisis.AssemblyInfo.cs
+D:\Temp\WalkingAnalysis\obj\Release\net6.0-windows\OrthoWalkAnalisis.csproj.CoreCompileInputs.cache

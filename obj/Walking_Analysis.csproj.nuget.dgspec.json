@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mlopez\\Visual Studio\\WalkingAnalysis\\Walking_Analysis.csproj": {}
+    "D:\\Temp\\WalkingAnalysis\\Walking_Analysis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mlopez\\Visual Studio\\WalkingAnalysis\\Walking_Analysis.csproj": {
+    "D:\\Temp\\WalkingAnalysis\\Walking_Analysis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mlopez\\Visual Studio\\WalkingAnalysis\\Walking_Analysis.csproj",
+        "projectUniqueName": "D:\\Temp\\WalkingAnalysis\\Walking_Analysis.csproj",
         "projectName": "Walking_Analysis",
-        "projectPath": "C:\\Users\\Mlopez\\Visual Studio\\WalkingAnalysis\\Walking_Analysis.csproj",
-        "packagesPath": "C:\\Users\\Mlopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mlopez\\Visual Studio\\WalkingAnalysis\\obj\\",
+        "projectPath": "D:\\Temp\\WalkingAnalysis\\Walking_Analysis.csproj",
+        "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
+        "outputPath": "D:\\Temp\\WalkingAnalysis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mlopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -71,7 +70,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -83,7 +83,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
