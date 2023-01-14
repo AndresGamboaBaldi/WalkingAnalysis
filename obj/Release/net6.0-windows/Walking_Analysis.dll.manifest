@@ -125,22 +125,22 @@
       <dsig:DigestValue>NB9WWwgKOV6Mrv2WvNpIgfpwbX28Yjj3+WNInsSG/Ig=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Walking_Analysis.dll" size="130048">
+  <file name="Walking_Analysis.dll" size="129536">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>v5nAAy+X62Y9ScyFAoWOpFCERRlgL2YuRsQ3V/3lGSo=</dsig:DigestValue>
+      <dsig:DigestValue>KpSr/SfoRBRtxMQUXjs+qrSN9cB9nZwI8OUrNiXtjvA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Walking_Analysis.exe" size="147968">
+  <file name="Walking_Analysis.exe" size="147456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>j5/wTA8/l67toeP9Dz4p1P6KPh28oczeq9jhd8sv80c=</dsig:DigestValue>
+      <dsig:DigestValue>WgPeYYrDd2GaDAiylUrdvW9v7UmnQejkt5KjN4qY4F4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Walking_Analysis.runtimeconfig.json" size="372">

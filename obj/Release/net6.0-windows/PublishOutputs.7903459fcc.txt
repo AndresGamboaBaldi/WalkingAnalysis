@@ -1,0 +1,12 @@
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\Walking_Analysis.exe
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\Walking_Analysis.dll
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\Walking_Analysis.deps.json
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\Walking_Analysis.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\Walking_Analysis.pdb
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\AForge.dll
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\AForge.Controls.dll
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\AForge.Imaging.dll
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\AForge.Math.dll
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\AForge.Video.dll
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\AForge.Video.DirectShow.dll
+C:\Users\andre\OneDrive\Desktop\PASARELA\WalkingAnalysis\WalkingAnalysis\bin\publish\SharpAvi.dll

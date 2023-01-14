@@ -308,5 +308,10 @@ namespace Walking_Analysis
             buttonStopRecord.Visible = true;
             labelGrabar.Visible = false;
         }
+
+        private void labelGrabar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

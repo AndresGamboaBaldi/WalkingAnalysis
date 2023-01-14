@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "a/B1HGD76ZKGMcaziJJ7orccUYMX5YUT5Tqv4itLqVVQ7Uwe8T7SqaVEJ+ZbByd8sIFPKBSSCaI74CrU8ryK6A==",
+  "dgSpecHash": "Dtg+nLM7eRXijjbraCAThUitCtmGrw7VNnn/JPrTrFTW4f4qO4t/Iot1FnOdzmfPIw3lVqkkarhbTH+4jO5qkw==",
   "success": true,
-  "projectFilePath": "D:\\Temp\\WalkingAnalysis\\Walking_Analysis.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\PASARELA\\WalkingAnalysis\\WalkingAnalysis\\Walking_Analysis.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lopez\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
-    "C:\\Users\\lopez\\.nuget\\packages\\aforge.controls\\2.2.5\\aforge.controls.2.2.5.nupkg.sha512",
-    "C:\\Users\\lopez\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
-    "C:\\Users\\lopez\\.nuget\\packages\\aforge.math\\2.2.5\\aforge.math.2.2.5.nupkg.sha512",
-    "C:\\Users\\lopez\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
-    "C:\\Users\\lopez\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
-    "C:\\Users\\lopez\\.nuget\\packages\\sharpavi\\3.0.1\\sharpavi.3.0.1.nupkg.sha512"
+    "C:\\Users\\andre\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\aforge.controls\\2.2.5\\aforge.controls.2.2.5.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\aforge.math\\2.2.5\\aforge.math.2.2.5.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\sharpavi\\3.0.1\\sharpavi.3.0.1.nupkg.sha512"
   ],
   "logs": [
     {
